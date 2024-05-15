@@ -6,10 +6,10 @@ Pre-requisites: Node.js: Ensure that you have Node.js installed on your system. 
 
 Instructions to run the project:
 
-Download the ZIP file from GitHub.
-Unzip the downloaded file.
-Open the resulting folder in your code editor.
-Open a new terminal in the project directory and run "npm install" to install server dependencies.
-Run "npm run dev" to start the server.
-Open a new terminal in the client folder and run "npm install" to install client dependencies.
-Run "npm run dev" to start the client.
+1) Download the ZIP file from GitHub.
+2) Unzip the downloaded file.
+3) Open the resulting folder in your code editor.
+4) Open a new terminal in the project directory and run "npm install" to install server dependencies.
+5) Run "npm run dev" to start the server.
+6) Open a new terminal in the client folder and run "npm install" to install client dependencies.
+7) Run "npm run dev" to start the client
